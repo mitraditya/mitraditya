@@ -9,7 +9,7 @@ I'm a sophomore in Electrical Engineering at **National Institute of Technology,
 ## How to reach me:
 📧 Send me an [Email](adityamitra1911@gmail.com).
 
-🤝 Connect with me on [Linkedin](www.linkedin.com/in/aditya-mitra-3505801b1).
+🤝 Connect with me on [Linkedin](http://www.linkedin.com/in/aditya-mitra-3505801b1).
 
 😄 Pronouns: He/Him.
 <!--
