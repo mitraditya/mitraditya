@@ -3,11 +3,13 @@
 I'm a sophomore in Electrical Engineering at **National Institute of Technology, Durgapur.**
 
 🌱 I’m currently learning **Data Structures and Algorithms** and working on improving my coding skills.
-🌱 I know C, C++, Java, JavaScript, Nodejs
+
+🌱 I know **C, C++, Java, HTML, CSS, JavaScript and Nodejs.**
 
 ## How to reach me:
 📧 Send me an [Email](adityamitra1911@gmail.com).
-🤝 Connect with me on Linkedin(www.linkedin.com/in/aditya-mitra-3505801b1).
+
+🤝 Connect with me on [Linkedin](www.linkedin.com/in/aditya-mitra-3505801b1).
 
 😄 Pronouns: He/Him.
 <!--
