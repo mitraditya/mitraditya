@@ -6,8 +6,10 @@ I'm a sophomore in Electrical Engineering at **National Institute of Technology,
 
 🌱 I know **C, C++, Java, HTML, CSS, JavaScript and Nodejs.**
 
+👯 I’m looking to collaborate on **Open Source Projects.**
+
 ## How to reach me:
-📧 Send me an [Email](adityamitra1911@gmail.com).
+📧 Send me an [Email](http://adityamitra1911@gmail.com).
 
 🤝 Connect with me on [Linkedin](http://www.linkedin.com/in/aditya-mitra-3505801b1).
 
