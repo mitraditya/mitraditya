@@ -1,5 +1,6 @@
-## Hi there, I'm Aditya. 👋
+# Hi there, I'm Aditya. 👋
 
+I'm a sophomore in Electrical Engineering at National Institute of Technology, Durgapur.
 <!--
 **mitraditya/mitraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
