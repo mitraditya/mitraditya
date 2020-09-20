@@ -9,11 +9,9 @@ I'm a sophomore in Electrical Engineering at **National Institute of Technology,
 👯 I’m looking to collaborate on **Open Source Projects.**
 
 ## How to reach me:
-📧 Send me an [Email](http://adityamitra1911@gmail.com).
+📧 Send me an [Email](mailto:adityamitra1911@gmail.com).
 
 🤝 Connect with me on [Linkedin](http://www.linkedin.com/in/aditya-mitra-3505801b1).
-
-😄 Pronouns: He/Him.
 <!--
 **mitraditya/mitraditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
