@@ -4,7 +4,7 @@ I'm a sophomore in Electrical Engineering at **National Institute of Technology,
 
 🌱 I’m currently learning **Data Structures and Algorithms** and working on improving my coding skills.
 
-🌱 I know **C, C++, Java, HTML, CSS, JavaScript and Nodejs.**
+🌱 I know **C, C++, Java, Python, HTML, CSS, JavaScript and Nodejs.**
 
 👯 I’m looking to collaborate on **Open Source Projects.**
 
